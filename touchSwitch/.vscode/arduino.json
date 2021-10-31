@@ -1,5 +1,5 @@
 {
-    "sketch": "touchSwitchpro.ino",
+    "sketch": "touchSwitchpro\\touchSwitchpro.ino",
     "board": "arduino:avr:uno",
     "port": "COM3"
 }
