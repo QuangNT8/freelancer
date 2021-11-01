@@ -17,8 +17,10 @@
             "includePath": [
                 "/home/quangnt/arduino-1.8.16/hardware/arduino/avr/cores/arduino",
                 "/home/quangnt/arduino-1.8.16/hardware/arduino/avr/variants/standard",
-                "/home/quangnt/Arduino/libraries/ADCTouch/src",
-                "/home/quangnt/Arduino/libraries/ShiftRegister74HC595/src",
+                // "/home/quangnt/Arduino/libraries/ADCTouch/src",
+                // "/home/quangnt/Arduino/libraries/ShiftRegister74HC595/src",
+                "lib/touchSwitch",
+                "lib/74hc595",
                 "/home/quangnt/arduino-1.8.16/hardware/tools/avr/lib/gcc/avr/7.3.0/include",
                 "/home/quangnt/arduino-1.8.16/hardware/tools/avr/lib/gcc/avr/7.3.0/include-fixed",
                 "/home/quangnt/arduino-1.8.16/hardware/tools/avr/avr/include"
