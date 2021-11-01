@@ -1,6 +1,6 @@
 #include <ShiftRegister74HC595.h>
 #include <ADCTouch.h>
-#define refer_val 10
+#define refer_val 500
 #define threshold 60
 
 #define PWM1_PIN 8
