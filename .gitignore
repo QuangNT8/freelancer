@@ -1,0 +1,7 @@
+# *.pb.go
+# *.pb.validate.go
+third_party/
+# .vscode/
+ArduinoOutput/
+build/
+
